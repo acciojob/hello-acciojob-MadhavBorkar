@@ -1,14 +1,14 @@
 
 /* Your CSS Code here. */
 main{
-	width:150;
-	height:150; 
-	background:black;
+	width:150px;
+	height:150px; 
+	background:black(000000);
 	color:white;
 }
 p{
-	color:white; 
+	color:white(#ffffff); 
 	margin-left:32px;
-	padding:10;"
+	padding:10px;"
 	}
 </hea
